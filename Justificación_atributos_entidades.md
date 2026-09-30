@@ -53,4 +53,3 @@
 * **fecha_prestamo:** Día que se retiró el libro.
 * **fecha_devolucion_esperada:** Día límite para devolverlo.
 * **fecha_devolucion_real:** Día que se devolvió. Si está vacío (NULL), significa que el libro todavía no fue devuelto.
-*
